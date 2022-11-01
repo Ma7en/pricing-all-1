@@ -1,0 +1,37 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+/* pric-3 */
+
+
+.plans .cont:hover {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+}
+
+.pric-3 .plans .cont:nth-child(2) {
+    margin-top: 0px;
+}
+
+.pric-3 .plans .cont:nth-child(3) {
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
